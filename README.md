@@ -1,27 +1,100 @@
-# 💫 About Me:
- 👨‍💻 About Me<br><br>Hi, I’m Ali Raza, a passionate Frontend Developer from Pakistan specializing in React.js and Next.js. I focus on building modern, scalable, and high-performance web applications with clean and responsive UI/UX designs.<br><br>I have hands-on experience in developing full-featured applications, creating reusable components, integrating REST APIs, and optimizing frontend performance for real-world projects. I enjoy solving complex problems and turning ideas into functional, user-friendly web experiences.<br><br>💡 My goal: To continuously grow as a developer, work on impactful projects, and contribute to innovative solutions that provide real value to users.  <br><br>Skills & Interests: <br>- ⚡ Frontend Development: React.js, Next.js, JavaScript, HTML, CSS, Tailwind CSS  <br>- 🧠 Backend Basics: Node.js, Express.js, MongoDB  <br>- 🎨 UI/UX Design, Responsive Web Design  <br>- 🚀 Passion for scalable, clean code and optimized performance  
+<p align="center">
+  <img src="https://your-image-link.com/profile.png" width="150" style="border-radius:50%;" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Ali Raza</h1>
+<p align="center">
+  Frontend Developer | React.js | Next.js | UI/UX Enthusiast
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mian.aliraza.545/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mian.aliraza.545/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ali61230) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alirazasandha5@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ali924-boop&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ali924-boop&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali924-boop&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ali924-boop&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ali924-boop&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="mailto:alirazasandha5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Ali924-boop"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://ali-raza-portfolio-bice.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-Profile-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-Profile-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ali924-boop&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Hi, I’m **Ali Raza**, a passionate **Frontend Developer** from Pakistan specializing in **React.js and Next.js**. I focus on building **modern, scalable, and high-performance web applications** with clean and responsive **UI/UX designs**.
+
+I have hands-on experience in developing full-featured applications, creating reusable components, integrating **REST APIs**, and optimizing frontend performance for real-world projects. I enjoy solving complex problems and turning ideas into **functional, user-friendly web experiences**.
+
+💡 **My goal:** To continuously grow as a developer, work on impactful projects, and contribute to innovative solutions that provide real value to users.
+
+**Skills & Interests:**  
+- ⚡ Frontend Development: React.js, Next.js, JavaScript, HTML, CSS, Tailwind CSS  
+- 🧠 Backend Basics: Node.js, Express.js, MongoDB  
+- 🎨 UI/UX Design, Responsive Web Design  
+- 🚀 Passion for scalable, clean code and optimized performance  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cloudflare,firebase,react,tailwind,next,node,git,github,vercel,vite,vue,express,framer,bootstrap,mongodb,figma,postman,eslint" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ali924-boop&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali924-boop&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali924-boop&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Projects Highlights
+
+### 1. **E-Commerce Platform (Next.js)**
+- Dynamic product pages with color & size variants  
+- Stripe payment integration  
+- MongoDB backend & Next.js frontend  
+- Responsive and clean UI  
+
+Live: [Portfolio Link](https://ali-raza-portfolio-bice.vercel.app) | Repo: (Add Link)
+
+### 2. **Notes App (MERN Stack)**
+- Authentication system with CRUD  
+- REST API integration  
+- Responsive frontend  
+
+Repo: (Add Link)
+
+### 3. **Cleaning Services Website**
+- Service-based business website  
+- Framer Motion animations  
+- Fully responsive design  
+
+Live: [Portfolio Link](https://ali-raza-portfolio-bice.vercel.app)
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali924-boop&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Contact
+
+📧 Email: alirazasandha5@gmail.com  
+🌐 Portfolio: [ali-raza-portfolio-bice.vercel.app](https://ali-raza-portfolio-bice.vercel.app)  
+GitHub: [Ali924-boop](https://github.com/Ali924-boop)
+
+---
+
+> ⚡ “Clean code. Scalable systems. Real-world impact.”
