@@ -1,44 +1,95 @@
-<!-- ================= HERO SECTION ================= -->
+# Ali Raza
 
-<p align="center">
-  <img src="https://your-image-link.com/profile.png" width="150" style="border-radius:50%;" />
-</p>
+Frontend Developer specializing in React.js and Next.js, focused on building scalable, performant, and user-friendly web applications.
 
-<h1 align="center">Hi 👋, I'm Ali Raza</h1>
-
-<p align="center">
-  <b>Frontend Engineer • React.js • Next.js • UI Specialist</b>
-</p>
-
-<p align="center">
-  Building modern, scalable & high-performance web applications
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Expert;Clean+Code+%2B+Modern+UI;Future+Full+Stack+Engineer" />
-</p>
-
-<p align="center">
-  <a href="mailto:alirazasandha5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://ali-raza-portfolio-bice.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="https://github.com/Ali924-boop">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+📍 Pakistan  
+📧 alirazasandha5@gmail.com  
+🌐 https://ali-raza-portfolio-bice.vercel.app  
+💻 https://github.com/Ali924-boop  
 
 ---
 
-## ⚡ Developer Snapshot
+## About
 
-```yaml
-Name: Ali Raza
-Role: Frontend Engineer
-Experience: 2+ Years
-Stack: React | Next.js | MERN
-Specialty: UI/UX + Performance Optimization
-Location: Pakistan
-Status: Open for Freelance & Remote Work
+I am a Software Engineering student and freelance frontend developer with hands-on experience in building modern web applications using the React and Next.js ecosystem.
+
+I focus on writing clean, maintainable code and creating intuitive user interfaces backed by real-world functionality.
+
+---
+
+## Experience
+
+**Freelance Frontend Developer**  
+2023 – Present  
+
+- Built responsive web applications using React.js and Next.js  
+- Developed reusable UI components and scalable frontend architecture  
+- Integrated REST APIs and handled dynamic data  
+- Focused on performance optimization and accessibility  
+
+---
+
+## Skills
+
+**Frontend**  
+React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
+
+**Backend**  
+Node.js, Express.js, MongoDB  
+
+**Tools**  
+Git, GitHub, VS Code, Vercel  
+
+---
+
+## Projects
+
+**E-Commerce Application (Next.js)**  
+- Dynamic product pages with variant selection (size, color)  
+- Stripe payment integration  
+- MongoDB database  
+- Responsive UI  
+
+Live: https://ali-raza-portfolio-bice.vercel.app  
+Repo: (add link)
+
+---
+
+**Notes Application (MERN Stack)**  
+- Authentication system  
+- Full CRUD functionality  
+- REST API integration  
+
+Repo: (add link)
+
+---
+
+**Cleaning Services Website**  
+- Service-based business website  
+- Responsive design with modern UI  
+- Animated sections using Framer Motion  
+
+Live: https://ali-raza-portfolio-bice.vercel.app  
+
+---
+
+## Education
+
+**BS Software Engineering**  
+2022 – 2026 (In Progress)
+
+---
+
+## Goals
+
+- Transition into full-stack development  
+- Work on large-scale production systems  
+- Collaborate with international teams  
+
+---
+
+## Contact
+
+If you'd like to work together or have an opportunity, feel free to reach out.
+
+📧 alirazasandha5@gmail.com
