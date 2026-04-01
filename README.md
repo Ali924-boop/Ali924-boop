@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-image-link.com/profile.png](https://github.com/account)" width="150" style="border-radius:50%;" />
+  <img src=["https://avatars.githubusercontent.com/u/156872304?v=4](https://github.com/account)" width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
@@ -50,6 +50,12 @@ I have hands-on experience in developing full-featured applications, creating re
 
 ---
 
+## 📈 Contribution Graph
+
+![Ali's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Ali924-boop&theme=tokyonight&hide_border=true)
+
+---
+
 ## 🚀 Projects Highlights
 
 ### 🧑‍💼 **Eric Collin Marketing**
@@ -86,17 +92,11 @@ I have hands-on experience in developing full-featured applications, creating re
 ---
 
 ### 🥤 **Maza Juice – Product Selling Website**
-- A modern online store for selling juice products.  
+- Modern online store for selling juice products.  
 - Added **mango flavors**, product components, and updated pages.  
 - Includes product listing, dynamic cart, checkout, and responsive design.  
 - Clean UI/UX for smooth customer experience.  
 🔗 Live: [maza-juice.vercel.app](https://maza-juice.vercel.app) | Repo: [Ali924-boop/maza_juice](https://github.com/Ali924-boop/maza_juice)
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali924-boop&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
