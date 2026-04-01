@@ -44,14 +44,9 @@ I have hands-on experience in developing full-featured applications, creating re
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ali924-boop&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali924-boop&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali924-boop&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+| ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali924-boop&show_icons=true&theme=tokyonight&hide_border=true) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ali924-boop&theme=tokyonight&hide_border=true) |
+|---|---|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali924-boop&layout=compact&theme=tokyonight&hide_border=true) |  |
 
 ---
 
