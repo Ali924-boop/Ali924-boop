@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/profile.png" width="150" style="border-radius:50%;" />
+  <img src="[https://your-image-link.com/profile.png](https://github.com/account)" width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
@@ -57,29 +57,45 @@ I have hands-on experience in developing full-featured applications, creating re
 
 ## 🚀 Projects Highlights
 
-### 1. **E-Commerce Platform (Next.js)**
-- Dynamic product pages with color & size variants  
-- Stripe payment integration  
-- MongoDB backend & Next.js frontend  
-- Responsive and clean UI  
-
-Live: [Portfolio Link](https://ali-raza-portfolio-bice.vercel.app) | Repo: (Add Link)
-
-### 2. **Notes App (MERN Stack)**
-- Authentication system with CRUD  
-- REST API integration  
-- Responsive frontend  
-
-Repo: (Add Link)
-
-### 3. **Cleaning Services Website**
-- Service-based business website  
-- Framer Motion animations  
-- Fully responsive design  
-
-Live: [Portfolio Link](https://ali-raza-portfolio-bice.vercel.app)
+### 🧑‍💼 **Eric Collin Marketing**
+- Professional digital marketing & brand strategy website showcasing services, SEO, content, and growth systems.  
+- Fully responsive with modern UI/UX design.  
+🔗 Live: [ericcollinformarketing.com](https://www.ericcollinformarketing.com/)  
+*(Repo link optional)*
 
 ---
+
+### 🧹 **MAAS Technical Cleaning Services**
+- Business website offering technical cleaning, maintenance, and deep cleaning services in Dubai.  
+- Includes service listings, Framer Motion animations, and responsive design.  
+🔗 Live: [maastechnicalcleaning.com](https://www.maastechnicalcleaning.com/)  
+*(Repo link optional)*
+
+---
+
+### 🛍️ **E-Commerce Platform (Next.js)**
+- Dynamic product pages with color & size variants.  
+- Stripe payment integration.  
+- MongoDB backend & Next.js frontend.  
+- Fully responsive and clean UI.  
+🔗 Live: [Portfolio Link](https://ali-raza-portfolio-bice.vercel.app) | Repo: *(Add Link)*
+
+---
+
+### 📝 **Notes App (MERN Stack)**
+- Authentication system with CRUD functionality.  
+- REST API integration.  
+- Responsive frontend UI.  
+🔗 Repo: *(Add Link)*
+
+---
+
+### 🥤 **Maza Juice – Product Selling Website**
+- A modern online store for selling juice products.  
+- Added **mango flavors**, product components, and updated pages.  
+- Includes product listing, dynamic cart, checkout, and responsive design.  
+- Clean UI/UX for smooth customer experience.  
+🔗 Live: [maza-juice.vercel.app](https://maza-juice.vercel.app) | Repo: [Ali924-boop/maza_juice](https://github.com/Ali924-boop/maza_juice)
 
 ## 📈 Contribution Graph
 
